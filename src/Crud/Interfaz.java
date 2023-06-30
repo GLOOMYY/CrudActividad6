@@ -1,8 +1,8 @@
 package Crud;
 
-import static Crud.manejoArchivo.CrearArchivo;
-import static Crud.manejoArchivo.EscribirArchivo;
-import static Crud.manejoArchivo.LeerArchivo;
+import static Crud.ManejoArchivo.CrearArchivo;
+import static Crud.ManejoArchivo.EscribirArchivo;
+import static Crud.ManejoArchivo.LeerArchivo;
 import java.awt.Color;
 import java.io.*;
 import java.util.ArrayList;

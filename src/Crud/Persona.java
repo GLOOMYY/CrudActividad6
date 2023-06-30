@@ -16,5 +16,5 @@ public String getApellidos() {
     return apellidos;}
 public String getCedula() {
     return cedula;}
-    } 
+} 
    

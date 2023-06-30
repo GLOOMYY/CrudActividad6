@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.StringTokenizer;
 import java.util.Vector;
 
-public class manejoArchivo {
+public class ManejoArchivo {
     
     public static void CrearArchivo(String nombreArchivo) {
        File archivo = new File(nombreArchivo);

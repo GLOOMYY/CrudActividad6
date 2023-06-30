@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="7141085d-c07a-4187-85c6-978c45e2f499" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/project.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/personas.txt" beforeDir="false" afterPath="$PROJECT_DIR$/personas.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Crud/Persona.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/UI_Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Crud/Crud.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/UI_VentanaPrincipal.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Crud/Interfaz.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/UI_VentanaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Crud/Interfaz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/Usser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/class_listaPersonas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/class_persona.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/formularioPersonas/manejoArchivo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Crud/manejoArchivo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/guayacan_rosado.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +28,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Documents/NetBeansProjects/Crud",
+    "last_opened_file_path": "C:/Users/admin/Documents/NetBeansProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
@@ -51,6 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1688128434625</updated>
       <workItem from="1688128435874" duration="490000" />
+      <workItem from="1688129367994" duration="606000" />
     </task>
     <servers />
   </component>
